@@ -1,0 +1,35 @@
+.box{
+    font-display: flex;
+    text-align: center;
+}
+
+.row{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin: 0 auto;
+}
+
+.card{
+    text-align: center;
+    margin-bottom: 20px;
+    width: 90%;
+
+}
+
+.logito{
+    width: 1000px;
+}
+
+.aaaaa{
+    list-style: none;
+}
+
+
+.class2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.help{
+    height: 35px;
+}

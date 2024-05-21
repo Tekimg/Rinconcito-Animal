@@ -1,0 +1,113 @@
+.navbar{
+    background-color: darkorange;
+}
+
+.logo{
+    height: 100px;
+    
+}
+
+.btn{
+    height: 50px;
+    background-color: rgb(252, 88, 48);
+}
+
+.card-deck{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: rgb(252, 88, 48);
+    color: aliceblue;
+    padding: 10px;
+    position: static;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.info{
+    text-align: left;
+    position: static;
+    flex-direction: column;
+
+}
+
+.link{
+    color: black;
+}
+
+
+.card-text{
+    font-family: 20%;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.usuario{
+    height: 50px;
+    
+}
+
+.nav-link :hover{
+    color: black;
+}
+
+
+.class2 {
+    display: flex;
+    flex-direction: column;
+    height: 100px; 
+    justify-content: right;
+    text-align: right;
+    margin-left: auto; 
+}
+
+.help{
+    height: 35px;
+    
+}
+
+.ig{
+    height: 50px;
+}
+
+.causa{
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+    }
+    
+    .column {
+      width: 33.33%;
+      padding: 10px; /* Adjust padding as needed */
+    }
+    
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    /*Arreglé la imagen del carro*/
+    .imgCarro{
+        width: 100%;
+        height: 100%;
+        padding-right: 10%;
+    }
+    
