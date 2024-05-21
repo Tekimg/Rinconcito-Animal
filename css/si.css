@@ -9,7 +9,14 @@
 
 .btn{
     height: 50px;
+    width: 100%;
     background-color: rgb(252, 88, 48);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
 }
 
 .card-deck{
@@ -44,12 +51,7 @@ footer{
     font-family: 20%;
 }
 
-.btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Courier New', Courier, monospace;
-}
+
 
 
 .usuario{
@@ -88,26 +90,24 @@ footer{
     box-sizing: border-box;
     }
     
-    .column {
-      width: 33.33%;
-      padding: 10px; /* Adjust padding as needed */
-    }
-    
-    .row {
-      display: flex;
-      flex-wrap: wrap;
-    }
-    
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
+.column {
+  width: 33.33%;
+  padding: 10px; /* Adjust padding as needed */
+}
 
-    /*Arreglé la imagen del carro*/
-    .imgCarro{
-        width: 100%;
-        height: 100%;
-        padding-right: 10%;
-    }
-    
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/*Arreglé la imagen del carro*/
+.imgCarro{
+    width: 100%;
+    height: 100%;
+    padding-right: 10%;
+}
