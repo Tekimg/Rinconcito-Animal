@@ -1,0 +1,12 @@
+Holaaaa aqui basicamente es un txt con ideas o cosas que podemos agregar con el tiempo ala pagina:
+
+
+-en la pagina registro en confirmar contraseña hace falta hacer que solo salga inicio exitoso si ambos campos son iguales.
+
+-hacer que cada boton de producto que dice añadir al carrito al clikearlo salga una alert que diga "añadido al carrito".
+
+- hablando de los mismos botones cambiar el estilo de los botones si gustan ya que tipo me fui alo mas como simple.
+
+-arreglar el diseño de la pagina de carrito ( solo si lo estiman conveniente )
+
+-POR ULTIMO pero mas latero crear algo para lo que es ayuda abajo en el footer( una pagina aparte/ un alert con datos de contacto )
