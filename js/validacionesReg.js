@@ -52,6 +52,10 @@ $(document).ready(function () {
             alert("Ingrese una contraseña.");
             return;
         }
+        if (passwordC != password){
+            alert("Las contraseñas no coinciden");
+            return;
+        }
         if (!terminosAceptados) {
             alert("Debe aceptar los términos y condiciones.")
             return;
